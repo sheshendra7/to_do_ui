@@ -1,0 +1,8 @@
+.container{
+    width:300px;
+    display: flex;
+    height: 300px;
+    flex-direction: row;
+    align-content: stretch;
+
+}
